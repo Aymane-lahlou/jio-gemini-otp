@@ -60,3 +60,5 @@ Link is saved to `gemini_activation_link.txt`.
 ## Disclaimer
 
 For educational use. You are responsible for complying with Jio and Grizzly SMS terms.
+
+I'm not affiliated with Grizzly SMS. Their service is shit — if you find something better, use it. I'm not recommending it.
