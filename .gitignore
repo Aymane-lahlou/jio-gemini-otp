@@ -1,0 +1,8 @@
+# Python / dotenv
+.env
+__pycache__/
+*.py[cod]
+*.log
+
+# Project output (contains personal activation link)
+gemini_activation_link.txt
